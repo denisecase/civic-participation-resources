@@ -33,7 +33,7 @@ jobs:
         run: mkdocs build --site-dir public
 
       - name: Upload pages artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v2
         with:
           path: public
 
@@ -42,7 +42,6 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v2
