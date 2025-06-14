@@ -41,7 +41,7 @@ nav:
           - Counties: states/MN/MN_counties.md
       - Missouri: states/MO/10-get_started.md
       - Texas: states/TX/10-get_started.md
-      
+
 markdown_extensions:
   - toc:
       permalink: true
@@ -57,4 +57,4 @@ markdown_extensions:
   - pymdownx.emoji
   - pymdownx.tasklist  
 
-docs_dir: .\docs
+docs_dir: docs
