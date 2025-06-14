@@ -14,7 +14,7 @@ In PowerShell, create and manage virtual environment with necessary tools.
 py -m venv .venv
 .venv\Scripts\activate
 py -m pip install --upgrade pip setuptools wheel
-py -m pip install --upgrade mkdocs mkdocs-material pymdown-extensions
+py -m pip install --upgrade -r requirements.txt 
 ```
 
 In PowerShell terminal, generate the documentation.

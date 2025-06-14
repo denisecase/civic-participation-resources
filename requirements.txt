@@ -1,0 +1,6 @@
+# requirements.txt
+
+mkdocs-material
+pymdown-extensions
+mkdocs-glightbox
+mkdocs-awesome-pages-plugin
