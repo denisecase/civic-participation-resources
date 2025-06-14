@@ -30,10 +30,19 @@ jobs:
           pip install -r requirements.txt
 
       - name: Build MkDocs site
-        run: mkdocs build 
+        run: mkdocs build --site-dir public
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Upload pages artifact
+        uses: actions/upload-pages-artifact@v1
         with:
-          personal_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./site
+          path: public
+
+  deploy:
+    needs: build-deploy
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v2
