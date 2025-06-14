@@ -12,9 +12,8 @@ permissions:
   id-token: write
 
 jobs:
-  build-deploy:
+  deploy:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
@@ -32,16 +31,10 @@ jobs:
       - name: Build MkDocs site
         run: mkdocs build --site-dir public
 
-      - name: Upload pages artifact
+      - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
 
-  deploy:
-    needs: build-deploy
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-    steps:
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v3
+        uses: actions/deploy-pages@v4
