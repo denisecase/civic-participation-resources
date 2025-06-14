@@ -70,3 +70,4 @@ Many precinct positions remain vacant - not enough people show up to fill them.
 This project is free, nonpartisan, and open-source for civic education and public use.
 
 Licensed under the [MIT License](LICENSE.txt).
+
