@@ -33,7 +33,7 @@ jobs:
         run: mkdocs build --site-dir public
 
       - name: Upload pages artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: public
 
