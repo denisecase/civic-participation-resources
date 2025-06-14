@@ -1,15 +1,14 @@
 # Notes
 
----
 
 ## A Tale of Two States
 
 To see the effects of participation, consider the following stories:
 
-- [examples/Missouri.md](examples/Missouri.md)  
-- [examples/Kansas.md](examples/Kansas.md)
+- [Missouri: Decline of Democratic Party Participation](examples/Missouri.md)  
+- [Kansas: Intra-Party Realignment (1980s to mid‑2010s)](examples/Kansas.md)
 
----
+
 
 ## Key Similarities
 
@@ -21,7 +20,7 @@ To see the effects of participation, consider the following stories:
 | Voter Engagement     | Small, highly organized groups    | Limited public participation                  |
 | Long‑Term Outcome    | Party reorganization with periodic shifts  | Reduced competitive balance in many districts |
 
----
+
 
 ## Lessons Learned
 
@@ -30,26 +29,22 @@ To see the effects of participation, consider the following stories:
 When civic participation drops, decisions may increasingly be made by smaller, highly organized groups rather than broad majorities.
 
 
----
 
-## Expanding Pattern
-
-Similar trends may be emerging in:
+## Some See Lower Participation
 
 - **Tennessee**: primary turnout of ~17% in August 2022 reflects persistently low engagement  
-  [Source](https://www.tennessean.com/story/news/politics/2022/08/05/tennessee-2022-election-low-turnout-reflects-closed-primary-lack-competitive-races/10243983002/)  
-- **Oklahoma**: GOP primary runoffs sometimes see <9% turnout  
-  [Source](https://oklahomawatch.org/2022/06/14/primary-runoff-voters-fewer-than-9-percent-turnout-in-some-oklahoma-districts/)  
-- **Alabama**: had ~37% turnout in 2022 midterms, many rural races uncontested  
-  [Source](https://www.al.com/news/2022/11/alabama-voter-turnout-was-lowest-in-recent-midterm-history.html)  
-- **Minnesota**: rural precinct chair positions often go unfilled, reducing participation  
-  [Source](https://minnesotareformer.com/2022/02/08/precinct-caucuses-are-where-political-parties-begin-but-theyre-dwindling/)  
-- **Wisconsin**: GOP dominance in rural counties driven by sharp rural alignment  
-  [Source](https://www.politico.com/news/2022/11/10/wisconsin-democrats-rural-problem-00066243)  
+  [Source](https://tennesseelookout.com/2022/08/15/analysis-tennessees-low-turnout-primaries/)  
+- **Oklahoma**: Primary runoffs turnout declining 
+  [Source](https://fairvote.org/oklahoma_primary_runoff_sees_turnout_decline_by_one_fourth/)  
+- **Alabama**: had ~38% turnout in 2022 midterms, many rural races uncontested  
+  [Source](https://www.governing.com/now/alabamas-midterms-had-lowest-turnout-in-at-least-36-years)  
+- **Texas**: Over a quarter of Texas counties have no Democratic Party Chair. 
+  [Source](https://jacobin.com/2025/06/democrats-rural-america-elections-trump)
 - **Michigan**: GOP outpaced Democratic turnout in many rural counties  
-  [Source](https://www.bridgemi.com/michigan-government/how-michigans-red-rural-areas-helped-power-trump-and-split-state-again)  
-- **Georgia**: rural Democratic infrastructure weakened, primary participation low  
-  [Source](https://www.ajc.com/politics/georgias-rural-democrats-struggle-as-the-party-fades-outside-the-suburbs/F7V3ROXZ7RDSBBQ5A2LT2U6TDU/)  
-- **Arizona**: GOP precinct-level mobilization drives rural participation  
-  [Source](https://www.azmirror.com/2022/10/03/inside-the-race-to-win-arizonas-legislative-seats-and-control-the-state-capitol/)
+  [Source](https://www.michiganpublic.org/politics-government/2024-11-12/rural-voters-drove-michigans-record-turnout-and-helped-hand-trump-victory)  
 
+
+## Some See Increased Participation
+
+- **Minnesota**: *A social welfare group created by the faith-based coalition ISAIAH, brought an estimated 5,000 new caucus attendees to diverse communities throughout Minnesota*
+  [Source](https://minnesotareformer.com/2020/02/26/first-time-precinct-caucus-attendees-packed-meetings-in-brooklyn-park-its-bigger-than-just-voting/)

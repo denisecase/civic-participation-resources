@@ -45,13 +45,13 @@ Kansas provides a key example of how focused participation at the **precinct lev
 
 ## Sources
 
-- https://en.wikipedia.org/wiki/Kansas_experiment (accessed 2025-06-13)
-- https://en.wikipedia.org/wiki/Kansas_Republican_Party (accessed 2025-06-13)
-- https://en.wikipedia.org/wiki/Carla_Stovall  (accessed 2025-06-13)
-- https://kansasreflector.com/2020/08/05/kansas-primary-undercuts-gop-moderates-rogue-democrat-clings-to-victory/
-- https://www.cbpp.org/commentary-gop-tax-framework-looks-much-like-kansas-failed-tax-cut-package
-- https://www.cbpp.org/blog/the-harsh-lessons-of-kansas-tax-cuts
-- https://www.brookings.edu/articles/how-state-tax-cuts-in-kansas-raised-municipalities-borrowing-costs/
-- https://www.cbpp.org/research/kansas-provides-compelling-evidence-of-failure-of-supply-side-tax-cuts
-- https://www.brookings.edu/articles/what-congressional-tax-cutters-can-learn-from-kansas/
-- https://www.americanprogress.org/article/kansas-real-live-experiment-trickle-tax-cuts/
+- <https://en.wikipedia.org/wiki/Kansas_experiment> (accessed 2025-06-13)
+- <https://en.wikipedia.org/wiki/Kansas_Republican_Party> (accessed 2025-06-13)
+- <https://en.wikipedia.org/wiki/Carla_Stovall>  (accessed 2025-06-13)
+- <https://kansasreflector.com/2020/08/05/kansas-primary-undercuts-gop-moderates-rogue-democrat-clings-to-victory/>
+- <https://www.cbpp.org/commentary-gop-tax-framework-looks-much-like-kansas-failed-tax-cut-package>
+- <https://www.cbpp.org/blog/the-harsh-lessons-of-kansas-tax-cuts>
+- <https://www.brookings.edu/articles/how-state-tax-cuts-in-kansas-raised-municipalities-borrowing-costs/>
+- <https://www.cbpp.org/research/kansas-provides-compelling-evidence-of-failure-of-supply-side-tax-cuts>
+- <https://www.brookings.edu/articles/what-congressional-tax-cutters-can-learn-from-kansas/>
+- <https://www.americanprogress.org/article/kansas-real-live-experiment-trickle-tax-cuts/>

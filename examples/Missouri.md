@@ -65,11 +65,11 @@ The decline of Missouri Democratic Party participation stems from long-term dise
 
 ## Sources
 
-- https://dailyyonder.com/rural-dems-want-the-dnc-to-bring-working-class-voters-back-into-the-fold/2025/04/08/
-- https://www.kcur.org/news/2024-12-10/after-another-disappointing-election-cycle-missouri-democrats-face-long-road-ahead
-- https://missouriindependent.com/2024/12/05/where-should-missouri-democrats-go-from-here/
-- https://barnraisingmedia.com/rural-america-donald-trump-kamala-harris-2024/
-- https://www.theguardian.com/us-news/2022/feb/22/us-politics-rural-america
-- https://www.stlpr.org/government-politics-issues/2020-12-30/new-missouri-democratic-party-leaders-see-building-local-support-as-key-priority
-- https://en.wikipedia.org/wiki/Firehouse_primary
+- <https://dailyyonder.com/rural-dems-want-the-dnc-to-bring-working-class-voters-back-into-the-fold/2025/04/08/>
+- <https://www.kcur.org/news/2024-12-10/after-another-disappointing-election-cycle-missouri-democrats-face-long-road-ahead>
+- <https://missouriindependent.com/2024/12/05/where-should-missouri-democrats-go-from-here/>
+- <https://barnraisingmedia.com/rural-america-donald-trump-kamala-harris-2024/>
+- <https://www.theguardian.com/us-news/2022/feb/22/us-politics-rural-america>
+- <https://www.stlpr.org/government-politics-issues/2020-12-30/new-missouri-democratic-party-leaders-see-building-local-support-as-key-priority>
+- <https://en.wikipedia.org/wiki/Firehouse_primary>
 
