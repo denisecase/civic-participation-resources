@@ -7,13 +7,15 @@
 - Select either the Missouri Democratic Party or Missouri Republican Party.
 - Contact your state or county party to join communication lists.
 
-### Missouri Democratic Party
-- Website: https://www.missouridemocrats.org/
+Missouri Democratic Party
+
+- Website: <https://www.missouridemocrats.org/>
 - Email: info@missouridems.org
 - Phone: (573) 777-1364
 
-### Missouri Republican Party
-- Website: https://missouri.gop/
+Missouri Republican Party
+
+- Website: <https://missouri.gop/>
 - Email: info@missouri.gop
 - Phone: (573) 636-3146
 
@@ -24,34 +26,40 @@
 - Each party sets its own presidential nominating process.
 
 Democratic Party:
+
 - Party-run mail-in presidential preference vote.
 - 2024 date was March 23.
-- Future dates published at:  https://www.missouridemocrats.org/
+- Future dates published at:  <https://www.missouridemocrats.org/>
 
 Republican Party:
+
 - County-level in-person caucuses.
 - 2024 date was March 2.
-- Future dates published at:  https://missouri.gop/caucus/
+- Future dates published at:  <https://missouri.gop/caucus/>
 
 ## Action 3. Find Your Party Participation Location (January, even years)
 
 Democratic Party:
+
 - Request mail-in ballots directly from the party.
 - Some limited in-person voting available.
-- Details available at:  https://www.missouridemocrats.org/
+- Details available at:  <https://www.missouridemocrats.org/>
 
 Republican Party:
+
 - Caucus locations assigned by county.
-- Find county-level information through:  https://missouri.gop/caucus/  
+- Find county-level information through:  <https://missouri.gop/caucus/> 
 
 
 ## Action 4. Plan to Participate (January, even years)
 
 Democratic Party:
+
 - Plan to submit mail-in ballot before deadline or attend designated in-person voting locations.
 - Verify submission deadlines and locations with the party.
 
 Republican Party:
+
 - Plan to arrive early for credentialing (typically doors open at 9:00 AM; caucus starts at 10:00 AM).
 - In-person attendance required. No mail-in option.
 
@@ -71,6 +79,7 @@ Democratic Party:
 - Elected central committee members may serve as precinct officers or appoint others per county bylaws.
 
 Republican Party:
+
 - Volunteer directly at your county-level caucus (March).
 - Positions such as Precinct Chair or Vice Chair are typically selected during the in-person caucus.
 

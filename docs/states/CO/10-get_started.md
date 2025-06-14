@@ -9,12 +9,14 @@ Contact state or county party to join communication lists.
 
 
 Colorado Democratic Party  
-- Website: https://www.coloradodems.org/  
+
+- Website: <https://www.coloradodems.org/>  
 - Email: info@coloradodems.org
 - Phone: (303) 863-1433
 
-Colorado Republican Party  
-- Website: https://www.cologop.org/  
+Colorado Republican Party 
+
+- Website: <https://www.cologop.org/>
 - Email: info@cologop.org
 - Phone: (303) 758-3720
 
@@ -25,6 +27,7 @@ Colorado Republican Party
 - Presidential primary date: March (e.g., 2024 primary on March 5) 
 
 Read more at:
+
 - [CO Caucuses](https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/caucuses.html).
 - [CO Major Parties](https://www.sos.state.co.us/pubs/elections/Candidates/FAQs/majorParty.html)
 
@@ -32,7 +35,7 @@ Read more at:
 ## Action 3. Find Your Party Caucus Location or Participation Method (January, even years)
 
 - Precinct caucus: use county party or Secretary of State site to find location.  
-- Presidential primary: use voter lookup at https://myaccount.sos.state.co.us/voter/ to find polling place.
+- Presidential primary: use voter lookup at <https://myaccount.sos.state.co.us/voter/> to find polling place.
 
 
 ## Action 4. Plan to Participate (January, even years)

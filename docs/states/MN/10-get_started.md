@@ -10,12 +10,14 @@
 
 
 Minnesota Democratic-Farmer-Labor Party (DFL)
-- Website: https://dfl.org/
+
+- Website: <https://dfl.org/>
 - Contact: info@dfl.org
 - Phone: (651) 293-1200
 
 Republican Party of Minnesota
-- Website: https://www.mngop.org/
+
+- Website: <https://www.mngop.org/>
 - Contact: info@mngop.com
 - Phone: (651) 222-0022
 
@@ -25,15 +27,16 @@ Republican Party of Minnesota
 
 - Minnesota generally holds its precinct caucuses on the **first Tuesday in February** of even-numbered years.
 - The official date is set in advance and can be confirmed at:  
-  https://www.sos.state.mn.us/elections-voting/how-elections-work/precinct-caucuses/
+  <https://www.sos.state.mn.us/elections-voting/how-elections-work/precinct-caucuses/>
 - The date and time is the same for both major parties. 
+- **In 2026, caucuses will be February 3, 2026 at 7 PM.**
 
-Minnesota provides excellent information about precinct caucuses at https://www.sos.state.mn.us/elections-voting/how-elections-work/precinct-caucuses/.
+Minnesota provides excellent information about precinct caucuses at <https://www.sos.state.mn.us/elections-voting/how-elections-work/precinct-caucuses/>.
 
 ## Action 3. Find Your Party Caucus Location (January, even years)
 
 - Use the Minnesota Secretary of State's Caucus Finder to locate your caucus meeting location:
-  - https://caucusfinder.sos.mn.gov/
+  - <https://caucusfinder.sos.mn.gov/>
 - Enter your home address to receive exact location and start time.
 
 
@@ -74,12 +77,10 @@ At the caucus, volunteer to serve as a delegate to the Organizing Unit Conventio
 
 ## Action 8. Participate in your Party
 
-After the caucus, stay active in your party. 
-Having learned about some of the platform resolutions, you may consider working to support those you think might pass. 
-You and others can submit platform resolutions for your party.
-Work with others before submitting to ensure you're likely to get the widespread support for your resolution needed to get it to pass. 
-Don't complicate the proceedings with resolutions that have little support. 
-Volunteer, fund-raise, support your local candidates, and invite others. 
+- After the caucus, stay active in your party. 
+- Having learned about some of the platform resolutions, you may consider working to support those you think might pass. 
+- Work with others before submitting to ensure you're likely to get the widespread support for your resolution needed to get it to pass. 
+- Volunteer, fund-raise, support your local candidates, and invite others. 
 
 
 ## Reminders

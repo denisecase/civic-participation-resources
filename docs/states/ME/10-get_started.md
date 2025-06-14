@@ -9,11 +9,11 @@ Contact state or county party to join communication lists.
 
 
 Maine Democratic Party  
-- Website: https://www.mainedems.org/  
+- Website: <https://www.mainedems.org/>  
 - Phone: (207) 622-7070
 
 Maine Republican Party  
-- Website: https://www.maine.gop/  
+- Website: <https://www.maine.gop/>  
 - Phone: (207) 623-1468
 
 
@@ -27,7 +27,7 @@ Maine Republican Party
 ## Action 3. Find Your Party Caucus Location or Participation Method (January, even years)
 
 - Democratic caucus locations posted by county party or state Democrats.  
-- Presidential primary: find polling place at https://voterlookup.maine.gov/ or local town clerk.
+- Presidential primary: find polling place at <https://voterlookup.maine.gov/> or local town clerk.
 
 
 

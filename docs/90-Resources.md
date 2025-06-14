@@ -9,8 +9,9 @@ This page provides general civic resources for understanding party processes, vo
 
 ## State Resources
 
-- [State Websites](./State_Websites.md)
-- [State-Specific Guides](./STATES.md)
+- [State-Specific Guides](./05-States.md)
+- [State Websites](./91-State_Websites.md)
+
 
 ## U.S. Congress Official Resources
 

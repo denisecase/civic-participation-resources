@@ -8,11 +8,13 @@ Select party for participation: Texas Democratic Party or Republican Party of Te
 - Register party affiliation; contact state or county party to join communication lists.
 
 Texas Democratic Party  
-- Website: https://www.texasdemocrats.org/  
+
+- Website: <https://www.texasdemocrats.org/>  
 - Phone: (512) 478-2585
 
-Republican Party of Texas  
-- Website: https://www.texasgop.org/  
+Republican Party of Texas 
+ 
+- Website: <https://www.texasgop.org/>
 - Phone: (512) 477-9821
 
 

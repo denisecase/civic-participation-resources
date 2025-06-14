@@ -10,12 +10,14 @@
 
 
 Iowa Democratic Party  
-- Website: https://iowademocrats.org/  
+
+- Website: <https://iowademocrats.org/>  
 - Email: info@iowademocrats.org  
 - Phone: (515) 244-7292
 
-Republican Party of Iowa  
-- Website: https://iowagop.org/  
+Republican Party of Iowa 
+
+- Website: <https://iowagop.org/>  
 - Email: info@iowagop.org  
 - Phone: (515) 282-8105
 
@@ -27,32 +29,38 @@ Iowa holds party caucuses early in presidential election years.
 Both parties announce caucus dates separately.
 
 Democratic Party (2024): Mail-in presidential preference cards began January 12, 2024.  
+
 Republican Party (2024): In-person precinct caucuses held January 15, 2024.
 
 Future caucus dates published by Iowa Secretary of State and party websites:
-- Iowa Secretary of State: https://sos.iowa.gov/
-- Iowa Democrats: https://iowademocrats.org/
-- Iowa Republicans: https://iowagop.org/
+
+- Iowa Secretary of State: <https://sos.iowa.gov/>
+- Iowa Democrats: <https://iowademocrats.org/>
+- Iowa Republicans: <https://iowagop.org/>
 
 ## Action 3. Find Your Party Caucus or Participation Method (January, even years)
 
 Democratic Party:
+
 - Request presidential preference card by mail.
 - Confirm submission deadlines and method with Iowa Democrats.
 
 Republican Party:
+
 - Attend assigned precinct caucus location.
 - County GOP offices provide caucus location lists.
-- Verify local caucus site through https://iowagop.org/
+- Verify local caucus site through <https://iowagop.org/>.
 
 
 ## Action 4. Plan to Participate (January, even years)
 
 Democratic Party:
+
 - Plan to get and submit preference card before deadline.
 - Confirm participation rules with Iowa Democrats.
 
 Republican Party:
+
 - Arrive early for credentialing; caucus usually starts 7:00 PM.
 - Bring government-issued ID.
 - In-person attendance required.
@@ -67,6 +75,7 @@ Complete all required sign-in and eligibility verification steps.
 ## Action 6. Volunteer To Serve in a Precinct Position (February/March, even years)
 
 Volunteer for:
+
 - Precinct Chair
 - Precinct Vice Chair (if applicable)
 
@@ -81,12 +90,12 @@ Volunteer to serve as delegate or alternate to organizing unit or county convent
 
 ## Action 8. Participate in your Party
 
-Stay active in your party. 
-Having learned about some of the platform resolutions, you may consider working to support those you think might pass. 
-You and others can submit platform resolutions for your party.
-Work with others before submitting to ensure you're likely to get the widespread support for your resolution needed to get it to pass. 
-Don't complicate the proceedings with resolutions that have little support. 
-Volunteer, fund-raise, support your local candidates, and invite others. 
+- Stay active in your party. 
+- Having learned about some of the platform resolutions, you may consider working to support those you think might pass. 
+- You and others can submit platform resolutions for your party.
+- Work with others before submitting to ensure you're likely to get the widespread support for your resolution needed to get it to pass. 
+- Don't complicate the proceedings with resolutions that have little support. 
+- Volunteer, fund-raise, support your local candidates, and invite others. 
 
 
 ## References

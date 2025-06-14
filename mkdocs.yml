@@ -1,0 +1,60 @@
+site_name: Civic Participation Resources
+site_url: https://denisecase.github.io/civic-participation-resources/
+theme:
+  name: material
+  logo: assets/images/logo.png
+  favicon: assets/images/favicon.ico
+  nav_style: light
+  features:
+    - navigation.top
+    - navigation.footer
+    - navigation.sections
+    - navigation.indexes
+    - toc.integrate
+    - content.action.edit
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - State-Specific Guides: 05-States.md
+  - Examples: 
+    - Overview: 07-Examples.md
+    - Kansas: examples/Kansas.md
+    - Missouri: examples/Missouri.md
+  - Get Started: 10-Get_Started.md
+  - Civic Organization: 20-Civic_Organization.md
+  - Party Organization: 30-Party_Organization.md
+  - Party Roles: 40-Party_Roles.md
+  - Recurring Calendar: 50-Recurring_Calendar.md
+  - Caucus Checklist: 60-Caucus_Checklist.md
+  - Resources: 90-Resources.md
+  - State Websites: 91-State_Websites.md
+  - States:
+      - California: states/CA/10-get_started.md
+      - Colorado: states/CO/10-get_started.md
+      - Iowa: states/IA/10-get_started.md
+      - Kansas: states/KS/10-get_started.md
+      - Maine: states/ME/10-get_started.md
+      - Minnesota:
+          - Guide: states/MN/10-get_started.md
+          - Resources: states/MN/90-resources.md
+          - Counties: states/MN/MN_counties.md
+      - Missouri: states/MO/10-get_started.md
+      - Texas: states/TX/10-get_started.md
+      
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.emoji
+  - pymdownx.tasklist  
+
+docs_dir: .\docs
