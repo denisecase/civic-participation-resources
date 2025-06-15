@@ -2,9 +2,14 @@
 
 Both major parties typically organize using the official election precinct map set by the state or county. 
 
-## Precinct Caucuses (~February, even-numbered years)
+A common first activity is the party caucus.
+A caucus is a neighborhood meeting of party members who gather in person to select local leaders, choose delegates, and discuss party business.
 
-The first - and most critical - event for new participants is the **precinct caucus**.
+Multiple precinct caucuses are often held at the same physical location for convenience, but each precinct meets separately to select its own leaders and delegates.
+
+## Party Caucuses (~February, even-numbered years)
+
+The first - and most critical - event for new participants is often the **precinct caucus**.
 
 At the precinct caucus:
 
@@ -16,11 +21,25 @@ At the precinct caucus:
 - Local party leadership may explain upcoming opportunities.
 - Caucuses are usually held on a single statewide date set by law or party rule.
 
-> **Precinct caucuses are often lightly attended. Your participation matters.**
+**Precinct caucuses are often lightly attended. Your participation matters.**
 
+
+## Evolving Systems: Party Caucuses, Primaries, and Party Meetings
+
+Party organizing processes vary by state and by party.
+
+- Some states and parties continue to use **precinct caucuses** as the main organizing event.
+- Some have moved to **primaries** for candidate selection but still use separate local party meetings for organizing leadership roles.
+- In a few states, **party leadership positions are elected directly by party members during primaries** or by internal party committee votes.
+
+Regardless of the method:
+
+- **Early participation remains critical.**
+- Contact your local party (county or organizing unit) to learn the process used in your area.
+- In every system, volunteers are needed to serve as Precinct Officers, Delegates, Directors, and Convention Participants.
+- Many positions are filled simply by showing up and volunteering.
 
 ## Organizing Unit Conventions (~March, even-numbered years)
-
 
 Organizing Unit Conventions follow the precinct caucuses.
 
@@ -64,6 +83,6 @@ _Many positions are filled simply by volunteers stating their willingness to ser
 
 The most important actions:  
 
-- **Attend the Precinct Caucus** in February of even-numbered years.
+- **Attend the Precinct Caucus** in ~February of even-numbered years.
 - **Volunteer** for Precinct Chair, Vice Chair, and/or Convention Delegate.
 - Plan to attend the Organizing Unit Convention.

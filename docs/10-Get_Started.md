@@ -60,14 +60,14 @@ How to locate your caucus location:
 - Bring ID (not always required but helpful for some party processes).
 - There is typically no mail-in option for caucus participation.
 
-## Action 5. Attend the Party Caucus meeting (February, even years)
+## Action 5. Attend the Party Caucus meeting (~February, even years)
 
 - Sign in when you arrive.
 - Verify eligibility.
 - Follow the convener's instructions.
 - Be ready to volunteer for roles.
 
-## Action 6. Volunteer To Serve in a Precinct Position (February, even years)
+## Action 6. Volunteer To Serve in a Precinct Position (~February, even years)
 
 - Who: Any party-supporting voter in the precinct.
 - When: During your precinct caucus.
@@ -83,7 +83,7 @@ How to locate your caucus location:
   - Join party phone calls and organizing events.
   - Stay connected.
 
-## Action 7. Volunteer To Serve as a Delegate (February, even years)
+## Action 7. Volunteer To Serve as a Delegate (~February, even years)
 
 - Who: Any eligible voter in the precinct.
 - When: During delegate selection portion of the caucus.
@@ -142,8 +142,8 @@ As you start to understand the work that needs to be done, consider getting more
 
 | Action | When | Event |
 |--------|------|-------|
-| Volunteer/Run for Precinct Chair/Vice Chair | February | Precinct Caucus |
-| Volunteer/Run to be a Delegate | February | Precinct Caucus |
+| Volunteer/Run for Precinct Chair/Vice Chair | ~February | Precinct Caucus |
+| Volunteer/Run to be a Delegate | ~February | Precinct Caucus |
 | Volunteer/Run for Director / Officer | March–April | Organizing Unit Convention |
 | Volunteer/Run for Higher-Level Delegate | March–April | Organizing Unit Convention |
 | Attend Higher Conventions | April–June | District & State Conventions |

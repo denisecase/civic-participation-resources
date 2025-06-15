@@ -2,13 +2,15 @@
 
 ## Recommended Tools
 
-- Python for generating documentation
+- Python 3.12 (used to build & serve MkDocs)
 - Git for version control
 - VS Code for editing
 
-## To build MK Docs
+## Build MkDocs Locally
 
-In PowerShell, create and manage virtual environment with necessary tools. 
+### 1. Create Virtual Environment (First Time)
+
+In PowerShell, create and manage virtual environment and install necessary packages. 
 
 ```pwsh
 py -m venv .venv
@@ -17,15 +19,25 @@ py -m pip install --upgrade pip setuptools wheel
 py -m pip install --upgrade -r requirements.txt 
 ```
 
-In PowerShell terminal, generate the documentation. Activate .venv first (if not active).
+### 2. Activate Virtual Environment (Daily Use)
+
+In PowerShell terminal, activate .venv first (if not active).
+
+```pwsh
+.venv\Scripts\activate
+```
+
+### 3. Serve MkDocs Locally
+
+In PowerShell terminal, generate the documentation. 
 
 ```pwsh
 .venv\Scripts\mkdocs.exe serve
 ```
 
-CTRL c a couple times or other will usually stop the server.
+Use CTRL c to stop the server.
 
-## Before Editing
+## Before Editing (Always Pull Latest)
 
 ```pwsh
 git pull

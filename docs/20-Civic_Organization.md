@@ -77,7 +77,8 @@ Each political party establishes its own internal rules for these roles and meet
 ## Precincts and Counties Are Critical in Elections
 
 - Most states have 50–100 counties (or county-equivalents).
-- The U.S. has ~3,100 counties and ~200,000 precincts (the exact number varies).
+- The U.S. has ~3,100 counties and ~200,000 precincts. 
+- The number of precincts (and their boundaries) may change each year. See your county for the most current information.
 
 Typical Precinct Sizes
 

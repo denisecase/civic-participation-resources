@@ -1,12 +1,15 @@
 # Civic Participation Guide
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
+
 This project provides information to help citizens participate in the political process in the U.S. 
 
 ## DID YOU KNOW?
 
-Planning for U.S. elections starts in **January** - not **November**.
+Planning for U.S. elections starts in **January**—not **November**.
 
-By the time voters cast ballots in November, many important decisions were made months earlier — often starting in January or February of even-numbered years.
+By the time voters cast ballots in November, many important decisions were made months earlier—often starting in January or February of even-numbered years.
 
 Key decisions are often made by small groups of people who understand how the party process works.  
 **Would you like to participate?**
@@ -16,20 +19,20 @@ The foundational level is the neighborhood, called the **precinct**.
 There are approximately 200,000 precincts in the United States (the exact number varies by state).
 
 Each major party assigns leadership roles starting at the precinct level, and progressing upward through counties, congressional districts, and the state party.
-Many precinct positions remain vacant - not enough people show up to fill them.  
+Many precinct positions remain vacant, because not enough people show up to fill them.  
 **You can make a difference by showing up.**
 
 
 ## Why it Matters
 
 - A relatively small number of committed, experienced people often determine candidate selection and policy direction.
-- Small groups can have large influence — especially when participation is low.
+- Small groups can have large influence—especially when participation is low.
 
 ## What can you do?
 
 - Join a major political party.
-- Look up your precinct using your state's voter registration lookup tool. We've listed helpful [state websites](./State_Websites.md).
-- Plan to attend your party's precinct caucus or local party meeting early in the year (~January–March) in even-numbered years (e.g. 2024, 2026). If your state or party uses a different method, confirm participation procedures.
+- Look up your precinct using your state's voter registration lookup tool.
+- Plan to attend your party's precinct caucus or local party meeting early in the year (~January–March) in even-numbered years (e.g. 2026). If your state or party uses a different method, confirm participation procedures.
 - By **January of even-numbered years**, verify exact dates, locations, or submission methods with your Secretary of State and state party.
 
 
@@ -65,9 +68,14 @@ Many precinct positions remain vacant - not enough people show up to fill them.
     - [Resources](./90-Resources.md)
 
 
+## Project Information
+
+- For contribution guidelines, see [Contributing](./CONTRIBUTING.md).
+- For project policies, see [Governance](./GOVERNANCE.md).
+- For developer setup, see [Developer Reference](./REF_DEVELOPER.md).
+
 ## License
 
 This project is free, nonpartisan, and open-source for civic education and public use.
 
-Licensed under the [MIT License](LICENSE.txt).
-
+- Licensed under the [MIT License](LICENSE.txt).
