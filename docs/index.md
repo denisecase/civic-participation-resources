@@ -45,21 +45,21 @@ Many precinct positions remain vacant - not enough people show up to fill them.
 - [ ] **Action 3**: Browse the general guides to learn more:
     - [Get Started](./10-Get_Started.md)
     - [Civic Organization](./20-Civic_Organization.md)
-      - States
-      - Congressional Districts
-      - Counties
-      - Precincts
+        - States
+        - Congressional Districts
+        - Counties
+        - Precincts
     - [Party Organization and Events](./30-Party_Organization.md)
-      - Precinct Caucuses (~February)
-      - Organizing Unit Conventions (~March)
-      - Congressional District Conventions  (~April)
-      - State Conventions (~May)
-      - National Conventions (~July)
+        - Precinct Caucuses (~February)
+        - Organizing Unit Conventions (~March)
+        - Congressional District Conventions  (~April)
+        - State Conventions (~May)
+        - National Conventions (~July)
     - [Party Roles](./40-Party_Roles.md)
-      - Precinct Chair, Vice Chair(s)
-      - Delegates
-      - Central Committee
-      - Executive Committee
+        - Precinct Chair, Vice Chair(s)
+        - Delegates
+        - Central Committee
+        - Executive Committee
     - [Recurring Calendar](./50-Recurring_Calendar.md)
     - [Caucus Preparation (Checklist)](./60-Caucus_Checklist.md)
     - [Resources](./90-Resources.md)

@@ -17,7 +17,7 @@ py -m pip install --upgrade pip setuptools wheel
 py -m pip install --upgrade -r requirements.txt 
 ```
 
-In PowerShell terminal, generate the documentation.
+In PowerShell terminal, generate the documentation. Activate .venv first (if not active).
 
 ```pwsh
 .venv\Scripts\mkdocs.exe serve

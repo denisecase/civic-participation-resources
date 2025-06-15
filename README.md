@@ -40,30 +40,30 @@ Many precinct positions remain vacant - not enough people show up to fill them.
 
 ## How to Use
 
-- **Action 1.** Find your [state-specific resources](./05-States.md) and plan to participate.
-- **Action 2.** Review [participation examples](./07-Examples) to see how participation affects options and outcomes.
-- **Action 3.** Browse the general guides to learn more:
-  - [Get Started](/10-Get_Started.md)
-  - [Civic Organization](./20-Civic_Organization.md)
-    - States
-    - Congressional Districts
-    - Counties
-    - Precincts
-  - [Party Organization and Events](./30-Party_Organization.md)
-    - Precinct Caucuses (~February)
-    - Organizing Unit Conventions (~March)
-    - Congressional District Conventions  (~April)
-    - State Conventions (~May)
-    - National Conventions (~July)
-  - [Party Roles](./40-Party_Roles.md)
-    - Precinct Chair, Vice Chair(s)
-    - Delegates
-    - Central Committee
-    - Executive Committee
-  - [Recurring Calendar](./50-Calendar.md)
-  - [Caucus Preparation (Checklist)](./60-Caucus_Checklist.md)
-  - [Participation Examples](./80-Examples.md)
-  - [Resources](./90-Resources.md)
+- [ ] **Action 1**: Find your [state-specific resources](./05-States.md) and plan to participate.
+- [ ] **Action 2**: Review [participation examples](./07-Examples.md) to see how participation affects options and outcomes.
+- [ ] **Action 3**: Browse the general guides to learn more:
+    - [Get Started](./10-Get_Started.md)
+    - [Civic Organization](./20-Civic_Organization.md)
+        - States
+        - Congressional Districts
+        - Counties
+        - Precincts
+    - [Party Organization and Events](./30-Party_Organization.md)
+        - Precinct Caucuses (~February)
+        - Organizing Unit Conventions (~March)
+        - Congressional District Conventions  (~April)
+        - State Conventions (~May)
+        - National Conventions (~July)
+    - [Party Roles](./40-Party_Roles.md)
+        - Precinct Chair, Vice Chair(s)
+        - Delegates
+        - Central Committee
+        - Executive Committee
+    - [Recurring Calendar](./50-Recurring_Calendar.md)
+    - [Caucus Preparation (Checklist)](./60-Caucus_Checklist.md)
+    - [Resources](./90-Resources.md)
+
 
 ## License
 
