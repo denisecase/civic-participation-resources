@@ -22,3 +22,19 @@ In PowerShell terminal, generate the documentation. Activate .venv first (if not
 ```pwsh
 .venv\Scripts\mkdocs.exe serve
 ```
+
+CTRL c a couple times or other will usually stop the server.
+
+## Before Editing
+
+```pwsh
+git pull
+```
+
+## After Successful Editing
+
+```pwsh
+git add .
+git commit -m "describe your change"
+git push -u origin main
+```
